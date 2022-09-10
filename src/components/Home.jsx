@@ -22,7 +22,7 @@ const Home = () => {
             I'm a Full Stack Software Engineer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 1 year of experience building websites and desgining software.
+            I have 1 year of software engineering industrial experience as Software, Mobile and Web Application, and Machine learning.
             I love to work on web application, Mobile Application, Games and Machine Learning.
           </p>
 
